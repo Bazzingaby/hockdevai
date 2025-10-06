@@ -1,0 +1,20 @@
+{
+  "projectName": "AlphaForge",
+  "vision": "Build a modular product-development control center that connects research, planning, and delivery.",
+  "currentSprint": "Sprint 1 - Foundation Setup",
+  "nextMilestone": "Connect OAuth providers and capture project steps",
+  "reinforcement": {
+    "enabled": false,
+    "lastUpdate": null,
+    "policyNotes": "Start with random policy until enough feedback is gathered."
+  },
+  "tasks": [
+    {
+      "id": "arch-overview",
+      "title": "Understand architecture",
+      "status": "in-progress",
+      "owner": "You",
+      "notes": "Review the AlphaForge diagram and ensure each box is mapped to a module."
+    }
+  ]
+}
